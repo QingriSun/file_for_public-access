@@ -1,0 +1,44 @@
+/* Reusable button colors */
+.btn-blue {
+  background-color: #cce5ff;   /* light blue */
+}
+
+.btn-lightblue {
+  background-color: #e6f2ff;   /* lighter blue */
+}
+
+    /* Navigation Bar Styles */
+    nav {
+      background-color: #aaa;
+      padding: 10px 20px;         /* spacing */
+      position: sticky;           /* stays at top */
+      top: 0;
+      z-index: 1000;
+    }
+
+    nav ul {
+      list-style: none;           /* remove bullets */
+      margin: 0;
+      padding: 0;
+      display: flex;              /* make horizontal */
+    }
+
+    nav ul li {
+      margin-right: 20px;         /* spacing between items */
+    }
+
+    nav ul li a {
+      color: white;               /* link color */
+      text-decoration: none;      /* remove underline */
+      font-weight: bold;
+      font-size: 16px;
+      transition: color 0.3s;     /* smooth hover effect */
+    }
+
+    nav ul li a:hover {
+      color: #ff9800;             /* change color on hover */
+    }
+
+
+
+    

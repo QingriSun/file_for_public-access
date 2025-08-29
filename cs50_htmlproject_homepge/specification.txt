@@ -1,0 +1,8 @@
+html tags:
+<div>, <a>, <p>, <table>, <script>,
+<link>, <h2>, <img>, <ul>, <body>
+
+css properties:
+background-color, padding, position, top, z-index
+
+I use the javascript to better show image, and boot stript to beautify my homepage rapidly.
